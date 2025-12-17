@@ -324,7 +324,8 @@ def pro(request):
 
 
 # OUTPUT:
-[text](README.md)
+![alt text](bo.png)
+
 
 # RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
